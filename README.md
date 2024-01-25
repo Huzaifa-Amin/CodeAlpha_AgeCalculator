@@ -8,4 +8,4 @@ The Age Calculator is a simple web application developed to calculate and displa
 
 ## Preview
 
-![preview.PNG]
+![Preview Image](preview.PNG)
